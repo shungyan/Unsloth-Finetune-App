@@ -14,7 +14,13 @@ It includes:
 git clone https://github.com/shungyan/Unsloth-Finetune-App.git
 cd Unsloth-Finetune-App
 ```
-###2. Modify the finetune.py with your model and SFT trainer configuration.
+### 2. Modify the finetune.py with your model and SFT trainer configuration.
+
+<img width="417" height="192" alt="image" src="https://github.com/user-attachments/assets/80f9fe4e-821b-4644-98b4-02ac1ca58f6b" />
+<br>
+<br>
+<img width="363" height="489" alt="image" src="https://github.com/user-attachments/assets/be207df8-e773-48b4-9e11-7df60fd2b734" />
+
 
 ### 3. Build the Docker Image
 ```bash
